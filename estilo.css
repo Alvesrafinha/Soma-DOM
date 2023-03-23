@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(113, 25, 25);
+    text-align: center;
+    padding: 237px;
+    color: white;
+}
+
+h1 {
+    padding: 5px;
+    font-style: oblique;
+    border: 2px 3px 2px solid white;
+    box-shadow: 9px 9px 13px black;
+}
+
